@@ -530,13 +530,7 @@ My previous responses (#1 and #2) are meant to be **complementary**  and **seque
 
 By following this approach, you'll create a robust, modern web application that can evolve from a basic tool into a fully-fledged Web3-enabled platform.
 
-You: 
-
-awesome, how do I export this - this was amazing
-
-ChatGPT: 
-
-I'm glad you found the solution helpful! To export your project, you can follow these steps to bundle both the frontend and backend into deployable packages:
+To export your project, and to bundle both the frontend and backend into deployable packages:
 **1. Exporting the Next.js Frontend**  
 1. **Build the Next.js App for Production:**  
   - Inside your Next.js project directory (`my-calculator-app`), run:
