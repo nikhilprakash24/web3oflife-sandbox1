@@ -6,6 +6,8 @@ For CVIN this sandbox / base decentralized application with full extensibility, 
 
 I tested a variety of sandboxes and full stack options and found that a unified sandbox is the most effective approach. Here's a summary of the findings and the proposed stages of development:
 
+Note: The executable Python code placeholder is for both an LLM-interface as well as the off-chain interaction components of the identity system. Hence the two stages of the sandbox and inclusion of cloud/db/api calls to represent generically a call to read something on- or off- chain and then either do something on-chain (the web3 DApp stage 2 part of the sandbox) or off-chain (as mentioned above including the base crux or kernel case of verified secure communication using a verifiable identity from the CVIN research project).
+
 ## Key Technologies:
 - **Tailwind, HTML, Next.js**: These are flexible and adaptable with any cloud or other components.
 - **Python Code (Generic or Base Case I)**: This serves as a versatile foundation that can represent and execute anything.
