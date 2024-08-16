@@ -1,5 +1,7 @@
-# web3oflife-sandbox1
-Sub-Repo I for Web3 of Life Projects and Development... "The Sandbox V1"
+# web3oflife-sandbox1 and Complete Full-Stack CVIN-sandbox1
+Sub-Repo I for CVIN and Web3 of Life Projects and Development... "The Sandbox V1" ... complete fuctionality and from the ground up (scratch), versatie base (sandbox) to build and test anything.
+For CVIN this sandbox / base decentralized application with full extensibility, adaptability and connectivity functionality will serve as means to build, test and eventually output a function modern application with a LLM-interface possible/included.
+
 # Sandbox and Full Stack Testing Summary
 
 I tested a variety of sandboxes and full stack options and found that a unified sandbox is the most effective approach. Here's a summary of the findings and the proposed stages of development:
