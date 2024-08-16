@@ -59,7 +59,7 @@ I tested a variety of sandboxes and full stack options and found that a unified 
 
 ### Adjunct UI/UX Integrated Workflow Recommendation: 
  
-1. **Design in Figma:** 
+1. **Design in Figma (...or any similar tool with the proper AI translating tools to make the process NO-CODE):** 
   - Create your layout using Figma's powerful design tools. Use Auto Layout and components to keep your design consistent and responsive.
  
 2. **Componentize the Design:** 
